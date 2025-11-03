@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\ARMS-LS.Logic\bin\Debug\net8.0-windows\ARMS-LS.Logic.deps.json
+C:\Users\manue\source\repos\ARMS-LS.Logic\bin\Debug\net8.0-windows\ARMS-LS.Logic.dll
+C:\Users\manue\source\repos\ARMS-LS.Logic\bin\Debug\net8.0-windows\ARMS-LS.Logic.pdb
+C:\Users\manue\source\repos\ARMS-LS.Logic\bin\Debug\net8.0-windows\ARMS-LS.Entities.dll
+C:\Users\manue\source\repos\ARMS-LS.Logic\bin\Debug\net8.0-windows\ARMS-LS.Entities.pdb
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS.Logic.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS.Logic.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS.Logic.AssemblyInfo.cs
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS.Logic.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS..B0F55FE3.Up2Date
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS.Logic.dll
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\refint\ARMS-LS.Logic.dll
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ARMS-LS.Logic.pdb
+C:\Users\manue\source\repos\ARMS-LS.Logic\obj\Debug\net8.0-windows\ref\ARMS-LS.Logic.dll
